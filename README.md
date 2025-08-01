@@ -58,8 +58,7 @@ One of the many prank emails—sent automatically, packed with deep-sounding non
 
 ### Project Demo
 # Video
-[![Demo Video](thumbnail-image-url)]("C:\Users\archa\Downloads\Useless video.mp4")
-
+https://github.com/zeusenpai/Useless-Project/blob/main/Useless%20video.mp4
 This video shows how we run our little prank project—starting the server, opening the site, and filling out the form to target someone. You can see how the emails start landing one by one in their inbox, full of weird, funny stuff. It’s just a small demo to show that yep, the chaos actually works!
 
 
