@@ -1,6 +1,7 @@
 from django.urls import path
-from .views import generate_thought_view
+from .views import send_email_view
 
 urlpatterns = [
-    path('generate/', generate_thought_view, name='generate_thought'),
+    path('send_gmail/', send_email_view, name='send_email'),
+
 ]
