@@ -33,50 +33,33 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-[commands]
+git clone https://github.com/your-username/useless_project.git
+cd useless_project
+pip install -r requirements.txt
 
 # Run
-[commands]
+python manage.py runserver
+
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1910" height="989" alt="Screenshot1 1" src="https://github.com/user-attachments/assets/e135f9e6-d160-4f1f-9eac-50f4e9d50d8c" />
+Landing page of "Crack Mail" a playful introduction inviting users to prank their friends with hilarious, AI-generated emails.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+<img width="1920" height="1080" alt="Screenshot2" src="https://github.com/user-attachments/assets/0e429213-a32b-48f5-a0b5-c2e19235b15e" />
+Form page to "Set Up the Chaos" – where users enter their friend's email, choose how many emails to send, and set the delay between each one.
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+<img width="686" height="356" alt="screenshot3" src="https://github.com/user-attachments/assets/5a73c94b-1178-495d-9c0f-0013a2d36cd2" />
+(Add screenshot 3 here with proper name)
+One of the many prank emails—sent automatically, packed with deep-sounding nonsense to gently mess with your friend’s brain.
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+
 *Explain what the video demonstrates*
 
 # Additional Demos
