@@ -54,16 +54,13 @@ Landing page of "Crack Mail" a playful introduction inviting users to prank thei
 Form page to "Set Up the Chaos" – where users enter their friend's email, choose how many emails to send, and set the delay between each one.
 
 <img width="686" height="356" alt="screenshot3" src="https://github.com/user-attachments/assets/5a73c94b-1178-495d-9c0f-0013a2d36cd2" />
-(Add screenshot 3 here with proper name)
 One of the many prank emails—sent automatically, packed with deep-sounding nonsense to gently mess with your friend’s brain.
 
 ### Project Demo
 # Video
 
-*Explain what the video demonstrates*
+This video shows how we run our little prank project—starting the server, opening the site, and filling out the form to target someone. You can see how the emails start landing one by one in their inbox, full of weird, funny stuff. It’s just a small demo to show that yep, the chaos actually works!
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - Abhiram V S: backend
