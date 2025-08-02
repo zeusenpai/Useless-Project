@@ -1,7 +1,8 @@
 from google import genai
 from django.conf import settings
+import os
 
-client = genai.Client(api_key="AIzaSyANEc6CtQ_ODYScaC7Oc7pMr4mTKEjXbk8")
+client = genai.Client(api_key= os.getenv("GEMINI_API_KEY"))
 
 def get_content():
     prompt = (
