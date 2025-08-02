@@ -33,7 +33,7 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-git clone https://github.com/your-username/useless_project.git
+git clone https://github .com/your-username/useless_project.git
 cd useless_project
 pip install -r requirements.txt
 
