@@ -129,4 +129,4 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'ag0484007@gmail.com'
-EMAIL_HOST_PASSWORD = 'ewfk dbsv jirg bduk'  # Use app passwords for Gmail
+EMAIL_HOST_PASSWORD = os.getenv("HOST_PASS") # Use app passwords for Gmail
