@@ -45,7 +45,8 @@ python manage.py runserver
 For Software:
 
 # Screenshots (Add at least 3)
-<img width="1910" height="989" alt="Screenshot1 1" src="https://github.com/user-attachments/assets/e135f9e6-d160-4f1f-9eac-50f4e9d50d8c" />
+<img width="1899" height="968" alt="Screenshot 2025-08-02 072903" src="https://github.com/user-attachments/assets/5b718667-7e68-4a4e-a0e7-b2689e18c5d3" />
+
 Landing page of "Crack Mail" a playful introduction inviting users to prank their friends with hilarious, AI-generated emails.
 
 
